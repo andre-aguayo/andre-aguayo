@@ -25,7 +25,3 @@
 - **Coderockr (2022)** → Desenvolvimento em múltiplos frameworks (Laravel, Symfony, NestJS, Next.js, Vue, React)  
 - **Genezyz Global Tech (2022)** → APIs e dashboards para jogos Web3 (NFTs, blockchain)  
 - **Projeto Especial – Mineradora (2025)** → Pool privada de mineração, eficiência +80%  
-
-
-![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark)
