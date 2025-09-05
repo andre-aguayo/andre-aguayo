@@ -21,7 +21,8 @@
 
 
 ## 🏆 Experiências Relevantes
+- **Projeto Especial – Mineradora (2025)** → Pool privada de mineração, eficiência +80%
 - **Fill Tech (2023–2025)** → Migração de aplicações e infra para AWS, Terraform & Ansible  
 - **Coderockr (2022)** → Desenvolvimento em múltiplos frameworks (Laravel, Symfony, NestJS, Next.js, Vue, React)  
 - **Genezyz Global Tech (2022)** → APIs e dashboards para jogos Web3 (NFTs, blockchain)  
-- **Projeto Especial – Mineradora (2025)** → Pool privada de mineração, eficiência +80%  
+  
